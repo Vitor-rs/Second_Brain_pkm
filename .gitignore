@@ -1,0 +1,26 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Dendron workspace files
+.dendron.port
+.dendron.ws
+dendron-ws.code-workspace
+
+# Editor directories and files
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
