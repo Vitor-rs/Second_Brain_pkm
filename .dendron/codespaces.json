@@ -1,0 +1,11 @@
+{
+  "useCodspacesProxy": true,
+  "logLevel": "debug",
+  "port": 3005,
+  "sync": {
+    "remoteSave": false,
+    "enabled": false
+  },
+  "noServerMode": true,
+  "useExistingPort": false
+}

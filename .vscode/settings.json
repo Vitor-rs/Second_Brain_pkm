@@ -15,5 +15,13 @@
     },
     "git.enableSmartCommit": true,
     "git.postCommitCommand": "sync",
-    "dendron.enableSelfContainedVaultWorkspace": true
+    "dendron.enableSelfContainedVaultWorkspace": true,
+    "dendron.serverPort": 3005,
+    "http.proxySupport": "off",
+    "dendron.graphConfig": {
+        "showRootNode": true,
+        "maxNeighbors": 8,
+        "maxNodesOnScreen": 30,
+        "renderOpacity": true
+    }
 }

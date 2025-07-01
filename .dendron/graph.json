@@ -1,0 +1,14 @@
+{
+  "zoomSpeed": 1,
+  "createStub": false,
+  "localOverride": {
+    "showBacklinks": true,
+    "showOutwardLinks": true,
+    "showHierarchy": true,
+    "showPortal": false,
+    "skipLevels": 0
+  },
+  "engine": "d3",
+  "enableAutoComplete": true,
+  "enableLinkCreation": true
+}

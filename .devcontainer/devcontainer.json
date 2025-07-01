@@ -1,0 +1,9 @@
+{
+  "forwardPorts": [3005],
+  "portsAttributes": {
+    "3005": {
+      "label": "Dendron",
+      "onAutoForward": "notify"
+    }
+  }
+}
